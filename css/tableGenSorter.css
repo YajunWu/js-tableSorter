@@ -1,0 +1,5 @@
+table.tableGenSorter>thead>tr>th[type]{
+	cursor:pointer;
+	text-align:center;
+}
+
